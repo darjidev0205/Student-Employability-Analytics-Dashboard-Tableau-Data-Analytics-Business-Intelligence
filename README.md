@@ -4,7 +4,7 @@
 
 ### Transforming Student Data into Career Readiness Insights
 
-<img src="student_employability_dashboard.png" width="100%">
+<img src="C:\Users\Dev\OneDrive\Data Analytics\student-employability-dashboard.jpg" width="100%">
 
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=for-the-badge&logo=tableau)
 ![Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
