@@ -227,13 +227,6 @@ Passionate about:
 - Python
 - Machine Learning
 
-### Connect With Me
-
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: YOUR_GITHUB_URL
-
----
-
 # ⭐ If you found this project useful
 
 Please consider giving this repository a star.
